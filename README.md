@@ -7,9 +7,9 @@ Es un prototipo diseñado para experimentar con la lógica de interacción y la 
 
 ## Características
 
-- **Seis botones interactivos.
-- **Los botones cambian de letra o número al ser presionados.
-- **Diseño experimental orientado a pruebas
+- Seis botones interactivos.
+- Los botones cambian de letra o número al ser presionados.
+- Diseño experimental orientado a pruebas
 
 ## Requisitos del sistema
 - Android 5.0 o superior.
